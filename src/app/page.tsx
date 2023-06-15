@@ -41,13 +41,13 @@ export default function Home() {
   return (
     <main className="flex h-screen flex-col items-center justify-between p-24 overflow-hidden">
       <div className="flex flex-col items-center gap-4">
-        <h1 className="text-[100px] tracking-widest font-extrabold uppercase text-slate-200 leading-none">
-          Kozo<span className="text-gray-700 ">co</span>m
+        <h1 className="text-[80px] tracking-widest font-extrabold uppercase text-slate-200 leading-none">
+          Kozo<span className="text-gray-700">co</span>m
         </h1>
-        <h2 className="text-slate-900 tracking-[20px] font-bold text-5xl uppercase animate-charcter">
+        <h2 className="text-slate-900 tracking-[20px] font-bold text-4xl uppercase animate-charcter">
           bốc thăm may mắn
         </h2>
-        <div className="relative rounded-full h-[550px] w-[550px] border-4 border-slate-900 flex items-center justify-center my-10">
+        <div className="relative rounded-full h-[500px] w-[500px] border-4 border-slate-900 flex items-center justify-center my-7">
           <div className="absolute rounded-full h-[500px] w-[500px] border-4 border-slate-900 bg-black/50"></div>
           <h1
             style={{
