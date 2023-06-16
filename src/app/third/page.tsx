@@ -11,7 +11,7 @@ const colors = [
   "rgb(220, 38, 38)",
   "rgb(157 23 77)",
   "rgb(161 98 7)",
-  "black",
+  "white",
 ]
 
 function getRandomColor() {
