@@ -40,7 +40,7 @@ export default function Home() {
   const color = getRandomColor()
   console.log(numberResult)
   return (
-    <main className="flex h-screen flex-col items-center justify-between p-24 overflow-hidden relative bg-black/80">
+    <main className="flex h-screen flex-col items-center justify-between p-20 overflow-hidden relative bg-black/80">
       <div className="flex flex-col items-center gap-4">
         <Image
           src={"/custom-logo-company-white.png"}
