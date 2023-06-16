@@ -79,7 +79,7 @@ export default function Home() {
         )}
         {numberResult ? (
           <div className="fixed z-50 inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center">
-            <div className="w-[500px] h-[550px] rounded-xl bg-cyan-700/50 p-5 backdrop-blur-md flex flex-col items-center gap-6">
+            <div className="w-[500px] h-[550px] rounded-xl bg-cyan-700/60 p-5 backdrop-blur-md flex flex-col items-center gap-6">
               <h1 className="uppercase font-bold text-2xl text-slate-200 text-center tracking-[6px]">
                 Xin chúc mừng!
               </h1>
