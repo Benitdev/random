@@ -18,26 +18,26 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: #36d1dc; /* fallback for old browsers */
+  /*   background: #36d1dc; 
   background: -webkit-linear-gradient(
     to right,
     #5b86e5,
     #36d1dc
-  ); /* Chrome 10-25, Safari 5.1-6 */
+  );
   background: linear-gradient(
     to right,
     #5b86e5,
     #36d1dc
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  );  */
 }
 
 .animate-charcter {
   background-image: linear-gradient(
     -225deg,
-    #231557 0%,
-    #44107a 29%,
-    #ff1361 67%,
-    #fff800 100%
+    #1eff00 0%,
+    #bf83ff 29%,
+    #ffffff 67%,
+    #e0dd7f 100%
   );
   background-size: auto auto;
   background-clip: border-box;
